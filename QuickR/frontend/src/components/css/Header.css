@@ -1,0 +1,9 @@
+.appBar {
+	background-color: whitesmoke !important;
+}
+
+/* changes the sizes of the logo */
+.appLogo {
+	width: 55px;
+	height: 55px;
+}
